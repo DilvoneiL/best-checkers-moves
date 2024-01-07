@@ -1,6 +1,5 @@
 Execução padrao
 make
 
-obs: 
-se caso der errado o make,
+ou 
 gcc -Wall dama.c main.c -o main
