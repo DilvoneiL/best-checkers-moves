@@ -1,5 +1,3 @@
 Execução padrao
-make
-
-ou 
-gcc -Wall dama.c main.c -o main
+compiler: make
+Execução: ./main (linux)
